@@ -4,6 +4,7 @@
   "domain": "diamanteinformatica.netlify.app",
   "short_name": "diamanteinformatica",
   "description": "diamanteinformatica",
+  "repository": "ecomplus-stores/diamanteinformatica",
   "primary_color": "#222831",
   "secondary_color": "#393e46",
   "bg_color": "#ffffff",
