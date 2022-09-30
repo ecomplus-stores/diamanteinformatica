@@ -1,5 +1,5 @@
 {
-  "css": ".banner:hover img {\n  transform: none !important;\n  transition: none;\n}\n.header__nav a {\n  font-size: 12px;\n  padding: 0 3.5px;\n}\n.header__nav > div:last-child a {\n  padding-right: 0;\n}\n.header__nav > div:first-child a {\n  padding-left: 0;\n}",
+  "css": ".banner:hover img {\n  transform: none !important;\n  transition: none;\n}\n.header__nav a {\n  font-size: 11.5px;\n  padding: 0 3.5px;\n}\n.header__nav > div:last-child a {\n  padding-right: 0;\n}\n.header__nav > div:first-child a {\n  padding-left: 0;\n}",
   "html_head": "",
   "html_body": ""
 }
