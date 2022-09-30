@@ -5,15 +5,13 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/promocao-relampago-4-.png",
-          "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!%20Vi%20o%20site%20de%20voc%C3%AAs%20e%20quero%20mais%20informa%C3%A7%C3%B5es!%20",
-          "alt": "",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": ""
+          "start": "2022-09-30T03:59:34.040Z",
+          "end": "2022-11-30T03:59:36.520Z",
+          "img": "/img/uploads/design-sem-nome-3-.png",
+          "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!%20Vi%20o%20site%20de%20voc%C3%AAs%20e%20quero%20mais%20informa%C3%A7%C3%B5es!%20"
         }
       ]
     },
