@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Seja bem-vindo! Diamante Informática - 26 anos em Maringá",
+    "text": "Seja bem-vindo ao nosso site!",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -8,17 +8,15 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/impressora?IMPRESSORA"
+    ],
     "random": 6,
     "full_width": false
   },
