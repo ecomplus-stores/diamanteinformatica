@@ -1,5 +1,5 @@
 {
-  "css": ".banner:hover img {\n  transform: none;\n}",
+  "css": ".banner:hover img {\n  transform: none !important;\n  transition: none;\n}",
   "html_head": "",
   "html_body": ""
 }
