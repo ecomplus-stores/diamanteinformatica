@@ -3,17 +3,8 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-09-30T03:59:34.040Z",
-          "end": "2022-11-30T03:59:36.520Z",
-          "img": "/img/uploads/design-sem-nome-3-.png",
-          "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!%20Vi%20o%20site%20de%20voc%C3%AAs%20e%20quero%20mais%20informa%C3%A7%C3%B5es!%20"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/imagem-site.png"
     },
     {
       "type": "info-bar",
