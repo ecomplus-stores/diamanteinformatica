@@ -43,6 +43,12 @@
       "page": 5
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1
+    },
+    {
       "type": "page-title",
       "title": "Conheça nossa Loja Física",
       "description": "Produtos genuínos"
