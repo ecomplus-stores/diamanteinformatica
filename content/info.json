@@ -5,7 +5,8 @@
   },
   "installments": {
     "show": true,
-    "text": "PARCELE EM ATÉ 12x"
+    "text": "ASSISTÊNCIA TÉCNICA",
+    "link": "https://www.diamanteinformatica.com.br/assistencia-tecnica"
   },
   "exchange": {
     "show": true,
