@@ -11,7 +11,7 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/site-atualizado.jpg",
-          "mobile_img": "/img/uploads/1200x500-px-1200-400-px-story-do-instagram-celular.jpg",
+          "mobile_img": "/img/uploads/celular-1.jpg",
           "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!%20Dei%20uma%20olhada%20no%20site%20de%20voces%20e%20quero%20mais%20informa%C3%A7%C3%B5es%20sobre%20seus%20produtos%20e%20servi%C3%A7os."
         },
         {
@@ -19,14 +19,14 @@
           "end": "2022-10-14T03:00:00.000Z",
           "img": "/img/uploads/dia-das-criancas-1200x400.jpg",
           "link": "https://www.diamanteinformatica.com.br/promocoes",
-          "mobile_img": "/img/uploads/dia-das-criancas-1200x400-story-do-instagram-celular.jpg"
+          "mobile_img": "/img/uploads/celular-2.jpg"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/nova-loja-1200-400-px-atualizada.jpg",
           "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!%20Dei%20uma%20olhada%20no%20site%20de%20voces%20e%20quero%20mais%20informa%C3%A7%C3%B5es%20sobre%20seus%20produtos%20e%20servi%C3%A7os.",
-          "mobile_img": "/img/uploads/nova-loja-1200-400-px-story-do-instagram-celular.jpg"
+          "mobile_img": "/img/uploads/celular.jpg"
         }
       ]
     },
