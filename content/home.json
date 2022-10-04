@@ -52,6 +52,10 @@
       "type": "page-title",
       "title": "Conheça nossa Loja Física",
       "description": "Produtos genuínos"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false
     }
   ]
 }
