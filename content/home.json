@@ -3,14 +3,8 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 5
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "banner-slider",
@@ -53,8 +47,14 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": null,
+      "sort": "offers",
+      "title": "",
+      "headless": false,
+      "limit": 12,
+      "page": 5
     },
     {
       "type": "dynamic-showcase",
