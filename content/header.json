@@ -15,9 +15,10 @@
   },
   "categories_list": {
     "featured": [
-      "/impressora?IMPRESSORA"
+      "/impressora?IMPRESSORA",
+      "/mouse?MOUSE"
     ],
-    "random": 20,
+    "random": 19,
     "full_width": true
   },
   "desktop_megamenu": true,
