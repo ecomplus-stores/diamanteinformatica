@@ -3,10 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 5000,
       "full_width": true,
@@ -44,6 +40,10 @@
           "img": "/img/uploads/pc-home-e-office.jpg"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
