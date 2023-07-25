@@ -10,11 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/pagina-inicial.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/imagem-venha-conhecer-nossa-loja.jpg"
         },
         {
@@ -38,6 +33,11 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/pc-home-e-office.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/pagina-inicial-1-.jpg"
         }
       ]
     },
