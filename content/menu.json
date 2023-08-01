@@ -1,6 +1,11 @@
 {
   "sort_categories": [
-    "perifericos"
+    "gamer",
+    "perifericos",
+    "assistencia-tecnica",
+    "rede-e-wireless",
+    "hardware",
+    "impressora"
   ],
   "alphabetical_order": true,
   "phone_wpp": true,
