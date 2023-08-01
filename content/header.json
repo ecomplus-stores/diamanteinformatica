@@ -19,7 +19,8 @@
       "/gamer?GAMER",
       "/impressora?IMPRESSORA",
       "/assistencia-tecnica?ASSISTÊNCIA TÉCNICA",
-      "/rede-e-wireless?REDE E WIRELESS"
+      "/rede-e-wireless?REDE E WIRELESS",
+      "/hardware?HARDWARE"
     ],
     "random": 1,
     "full_width": false
