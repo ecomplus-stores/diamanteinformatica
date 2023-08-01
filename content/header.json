@@ -21,7 +21,7 @@
       "/assistencia-tecnica?ASSISTÊNCIA TÉCNICA",
       "/rede-e-wireless?REDE E WIRELESS"
     ],
-    "random": 0,
+    "random": 1,
     "full_width": false
   },
   "desktop_megamenu": true,
