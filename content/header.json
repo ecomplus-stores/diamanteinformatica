@@ -17,7 +17,8 @@
     "featured": [
       "/perifericos?PERIFÉRICOS",
       "/gamer?GAMER",
-      "/impressora?IMPRESSORA"
+      "/impressora?IMPRESSORA",
+      "/assistencia-tecnica?ASSISTÊNCIA TÉCNICA"
     ],
     "random": 6,
     "full_width": true
