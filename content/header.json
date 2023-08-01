@@ -19,7 +19,7 @@
       "/mouse?MOUSE",
       "/impressora?IMPRESSORA"
     ],
-    "random": 4,
+    "random": 15,
     "full_width": true
   },
   "desktop_megamenu": true,
