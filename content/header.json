@@ -22,7 +22,7 @@
       "/rede-e-wireless?REDE E WIRELESS",
       "/hardware?HARDWARE"
     ],
-    "random": 1,
+    "random": 0,
     "full_width": false
   },
   "desktop_megamenu": true,
