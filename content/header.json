@@ -15,12 +15,12 @@
   },
   "categories_list": {
     "featured": [
-      "/perifericos?PERIFÉRICOS",
-      "/gamer?GAMER",
-      "/impressora?IMPRESSORA",
       "/assistencia-tecnica?ASSISTÊNCIA TÉCNICA",
-      "/rede-e-wireless?REDE E WIRELESS",
-      "/hardware?HARDWARE"
+      "/gamer?GAMER",
+      "/hardware?HARDWARE",
+      "/impressora?IMPRESSORA",
+      "/perifericos?PERIFÉRICOS",
+      "/rede-e-wireless?REDE E WIRELESS"
     ],
     "random": 0,
     "full_width": false
