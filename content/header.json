@@ -18,7 +18,8 @@
       "/perifericos?PERIFÉRICOS",
       "/gamer?GAMER",
       "/impressora?IMPRESSORA",
-      "/assistencia-tecnica?ASSISTÊNCIA TÉCNICA"
+      "/assistencia-tecnica?ASSISTÊNCIA TÉCNICA",
+      "/rede-e-wireless?REDE E WIRELESS"
     ],
     "random": 6,
     "full_width": true
