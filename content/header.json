@@ -20,7 +20,8 @@
       "/hardware?HARDWARE",
       "/impressao?IMPRESSÃO",
       "/perifericos?PERIFÉRICOS",
-      "/rede-e-wireless?REDE E WIRELESS"
+      "/rede-e-wireless?REDE E WIRELESS",
+      "/acessorios?ACESSÓRIOS"
     ],
     "random": 0,
     "full_width": false
