@@ -23,9 +23,9 @@
       "/rede-e-wireless?REDE E WIRELESS"
     ],
     "random": 0,
-    "full_width": false
+    "full_width": true
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
   "full_width_submenu": true
