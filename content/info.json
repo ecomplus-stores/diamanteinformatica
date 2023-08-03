@@ -6,7 +6,7 @@
   "installments": {
     "show": true,
     "text": "ATÉ 3X SEM JUROS",
-    "link": "https://www.diamanteinformatica.com.br/assistencia-tecnica"
+    "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!%20Dei%20uma%20olhada%20no%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es!%20"
   },
   "exchange": {
     "show": true,
