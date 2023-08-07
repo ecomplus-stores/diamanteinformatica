@@ -16,12 +16,14 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/pagina-inicial.jpg"
+          "img": "/img/uploads/pagina-inicial.jpg",
+          "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!!%20Vi%20o%20site%20de%20voc%C3%AAs%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20seus%20servi%C3%A7os%20e%20produtos!"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/imagem-venha-conhecer-nossa-loja.jpg"
+          "img": "/img/uploads/imagem-venha-conhecer-nossa-loja.jpg",
+          "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!!%20Vi%20o%20site%20de%20voc%C3%AAs%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20seus%20servi%C3%A7os%20e%20produtos!"
         },
         {
           "start": "",
@@ -32,12 +34,14 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/pc-home-e-office.jpg"
+          "img": "/img/uploads/pc-home-e-office.jpg",
+          "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!!%20Vi%20o%20site%20de%20voc%C3%AAs%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20pcs!%20"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/impressora-certo-1-.jpg"
+          "img": "/img/uploads/impressora-certo-1-.jpg",
+          "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!!%20Vi%20o%20site%20de%20voc%C3%AAs%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20manuten%C3%A7%C3%A3o%20em%20impressoras!%20"
         }
       ]
     },
