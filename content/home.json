@@ -67,6 +67,18 @@
       "type": "page-title",
       "title": "Conheça nossa Loja Física",
       "description": "Produtos genuínos"
+    },
+    {
+      "type": "review-carousel",
+      "autoplay": 9000,
+      "reviews": [
+        {
+          "img": "/img/uploads/unnamed.png",
+          "nome": "Maria Clara Amorim",
+          "texto": "Gostei bastante do atendimento, em especial o Marcelo, que sempre me atendeu muito bem, muito solicito mas a equipe em geral muito boa, entrega rápida e equipamentos de qualidade."
+        }
+      ],
+      "title": "Avaliações "
     }
   ]
 }
