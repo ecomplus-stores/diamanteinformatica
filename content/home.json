@@ -106,6 +106,11 @@
           "nome": "Kelly Oliver",
           "texto": "Equipe atenciosa, e atenta as necessidades do cliente, apresentam um preço justo e honestidade no trabalho que está sendo realizado. Meu atendimento foi realizado pelo Rafael e  antes, durante e após o reparo demostrou cuidado com o  serviço ofertado. Recomendo!",
           "img": "/img/uploads/kelly.png"
+        },
+        {
+          "texto": "enho computador a muito tempo e é difícil achar um técnico de confiança e profissional, aqui tem tudo que eu procuro para deixar sem medo meu PC.",
+          "nome": "Igor de Tangamangapio",
+          "img": "/img/uploads/igor.png"
         }
       ],
       "title": "Avaliações "
