@@ -65,7 +65,7 @@
     },
     {
       "type": "review-carousel",
-      "autoplay": 9000,
+      "autoplay": 6000,
       "reviews": [
         {
           "img": "/img/uploads/unnamed.png",
@@ -73,8 +73,9 @@
           "texto": "Gostei bastante do atendimento, em especial o Marcelo, que sempre me atendeu muito bem, muito solicito mas a equipe em geral muito boa, entrega rápida e equipamentos de qualidade."
         },
         {
-          "texto": "Atendimento e qualidade nota 1000! O professional Marcelo representou muito bem o propósito e valores da empresa, atendendo com agilidade, eficiência e qualidade. Foi a primeira vez que fui atendida, mas certamente, quando precisar, voltarei e super indico!",
-          "nome": "Raquel C. M."
+          "texto": "Atendimento de qualidade e serviço de excelência, recomendo muito! Estava receioso de encontrar uma loja para montar minha máquina, e encontrei a certa! Diamante informática é braba",
+          "nome": "Neno Fps",
+          "img": "/img/uploads/rtrt.png"
         }
       ],
       "title": "Avaliações "
