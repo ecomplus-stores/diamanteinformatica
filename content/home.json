@@ -96,6 +96,11 @@
           "img": "/img/uploads/esparta.png",
           "nome": "Esparta",
           "texto": "Assistência técnica muito boa. Estava com um problema de um Notebook que derrubou água em cima. O técnico realizou um banho químico e ficou zero. Explicou tudo o que ocorreu e que poderia ter ocorrido, bem transparente. Recomendo o local."
+        },
+        {
+          "img": "/img/uploads/yago.png",
+          "nome": "Yago Gaúna",
+          "texto": "Lugar excelente, atendimento de primeira e a qualidade fora do comum. Montei meu PC com eles e só tenho a agradecer pelo cuidado!"
         }
       ],
       "title": "Avaliações "
