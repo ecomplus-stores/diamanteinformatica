@@ -65,7 +65,7 @@
     },
     {
       "type": "review-carousel",
-      "autoplay": 6000,
+      "autoplay": 5000,
       "reviews": [
         {
           "img": "/img/uploads/unnamed.png",
