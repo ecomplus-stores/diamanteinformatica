@@ -69,6 +69,11 @@
       ]
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
+    },
+    {
       "type": "review-carousel",
       "autoplay": 5000,
       "reviews": [
@@ -134,11 +139,6 @@
         }
       ],
       "title": "Avaliações "
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "sales"
     }
   ]
 }
