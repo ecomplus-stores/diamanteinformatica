@@ -130,6 +130,14 @@
         }
       ],
       "title": "Avaliações "
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/31-10-cm-02-2-.png"
+        }
+      ]
     }
   ]
 }
