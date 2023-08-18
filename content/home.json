@@ -61,9 +61,12 @@
       "sort": "news"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/pc-home-e-office.jpg"
+        }
+      ]
     },
     {
       "type": "review-carousel",
@@ -133,12 +136,9 @@
       "title": "Avaliações "
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/pc-home-e-office.jpg"
-        }
-      ]
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     }
   ]
 }
