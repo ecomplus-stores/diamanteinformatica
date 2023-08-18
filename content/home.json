@@ -60,7 +60,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/pc-home-e-office.jpg"
+          "img": "/img/uploads/pc-home-e-office.jpg",
+          "link": "https://www.diamanteinformatica.com.br/computadores-gamers"
         }
       ]
     },
