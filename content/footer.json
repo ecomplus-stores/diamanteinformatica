@@ -4,12 +4,12 @@
     "text": " Loja On-line Segunda a sexta, 8h às 18h  Loja Física Segunda a sexta, 8 às 18h | Sábado, 9h às 12h"
   },
   "links_1": {
-    "list_pages": false,
+    "list_pages": true,
     "title": "Páginas",
     "list": []
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": [
       {}
