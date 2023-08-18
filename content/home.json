@@ -50,11 +50,12 @@
     },
     {
       "autoplay": 0,
-      "page": 4,
+      "page": 2,
       "title": "LANÇAMENTOS",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
+      "link": "",
       "limit": 8,
       "collection_id": null,
       "sort": "news"
