@@ -74,6 +74,21 @@
       "title": "MAIS VENDIDOS"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cadeiras-1-.jpg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61ddc4af0c7c72722501434e:categories:CADEIRA GAMER:/cadeira-gamer"
+    },
+    {
       "type": "review-carousel",
       "autoplay": 5000,
       "reviews": [
