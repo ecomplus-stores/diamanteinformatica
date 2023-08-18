@@ -49,14 +49,15 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
+      "autoplay": 0,
+      "page": 4,
+      "title": "LANÇAMENTOS",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
       "headless": false,
-      "limit": 12,
-      "page": 5
+      "type": "collection-shelf",
+      "limit": 8,
+      "collection_id": null,
+      "sort": "news"
     },
     {
       "type": "dynamic-showcase",
