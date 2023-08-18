@@ -49,6 +49,14 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "LANÇAMENTOS"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -57,16 +65,12 @@
       ]
     },
     {
-      "autoplay": 0,
-      "page": 2,
-      "title": "MAIS VENDIDOS",
-      "shuffle": true,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "",
+      "shuffle": false,
       "limit": 8,
-      "collection_id": null,
-      "sort": "sales"
+      "page": 2,
+      "sort": "sales",
+      "title": "MAIS VENDIDOS"
     },
     {
       "type": "review-carousel",
@@ -134,12 +138,6 @@
         }
       ],
       "title": "DEPOIMENTOS"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
     }
   ]
 }
