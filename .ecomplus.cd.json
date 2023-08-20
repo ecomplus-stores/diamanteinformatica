@@ -1,5 +1,5 @@
 {
-  "trigger": "64df88312cd6b659591e0eac",
-  "resource": "products",
-  "slug": "placa-mae-biostar-b250mhc-intel-1151-6-e-7-geracao-ddr4,placa-mae-asus-prime-b450-plus-socket-am4amd-b450m2,placa-mae-micro-atx-afox-ih61-ma5-2-e-3-geracao-lga-1155-intel-h61-vga-hdmi-ddr3-ate-16gb,placa-mae-micro-atx-afox-4-geracao-lga-1150-intel-h81-vga-hdmi-usb-30-ddr3-ate-8gb---ih81-ma6,processador,processador-intel-core-i3-10105f-37ghz-44ghz-max-turbo-cache-6mb-quad-core-8-thread-lga-1200,processador-amd-ryzen-5-3600-cache-32mb-36ghz42ghz-max-turbo-am4-sem-video,processador-intel-core-i5-10400f-29ghz-43ghz-max-turbo-cache-12mb-6-nucleos-12-threads-lga-1200,processador-intel-core-i5-10400-29ghz-43ghz-max-turbo-cache-12mb-lga-120,placa-de-rede,placa-rede-encore-wireless-n-300mbs,placa-de-rede-tp-link-ac1200-wireless-dual-band-archer-pci-express-t4e,adaptador-placa-de-rede-tg-3468,adaptador-placa-de-rede-pci-express-300mbps,placa-rede-gigabit-101001000-pci-express-tp-link-tg-3468,placa-pci-express-x1-2-seriais-1-paralela-low-profile"
+  "trigger": "64e231fd2cd6b659591ff2a8",
+  "resource": "categories",
+  "slug": "solucoes"
 }
