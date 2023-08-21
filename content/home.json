@@ -79,13 +79,6 @@
       "link": "https://www.diamanteinformatica.com.br/cadeira-gamer"
     },
     {
-      "type": "brands-carousel",
-      "limit": 15,
-      "offset": 0,
-      "sort": null,
-      "autoplay": 1000
-    },
-    {
       "type": "review-carousel",
       "autoplay": 5000,
       "reviews": [
@@ -151,6 +144,13 @@
         }
       ],
       "title": "DEPOIMENTOS"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 15,
+      "offset": 0,
+      "sort": null,
+      "autoplay": 1000
     }
   ]
 }
