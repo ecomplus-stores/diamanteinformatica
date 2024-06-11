@@ -167,6 +167,15 @@
       "type": "page-title",
       "description": "",
       "title": "Localização"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/design-sem-nome-21-.png",
+          "link": "https://maps.app.goo.gl/LePcJKT4zxx5rNKn6"
+        }
+      ]
     }
   ]
 }
