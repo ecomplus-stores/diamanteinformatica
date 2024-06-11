@@ -165,12 +165,8 @@
     },
     {
       "type": "page-title",
-      "description": "Localização"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/mapa.png",
-      "link": "https://maps.app.goo.gl/LePcJKT4zxx5rNKn6"
+      "description": "",
+      "title": "Localização"
     }
   ]
 }
