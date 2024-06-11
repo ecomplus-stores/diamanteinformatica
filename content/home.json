@@ -169,11 +169,14 @@
       "title": "Localização"
     },
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
         {
-          "img": "/img/uploads/design-sem-nome-21-.png",
-          "link": "https://maps.app.goo.gl/LePcJKT4zxx5rNKn6"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/localizacao.png"
         }
       ]
     }
