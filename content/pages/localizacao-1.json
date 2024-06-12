@@ -1,12 +1,6 @@
 {
   "title": "Localização ",
-  "sections": [
-    {
-      "type": "page-title",
-      "title": "https://www.google.com/maps/place/Diamante+Inform%C3%A1tica+e+Assist%C3%AAncia+T%C3%A9cnica/@-23.4349687,-51.9392642,15.25z/data=!4m6!3m5!1s0x94ecd0b54af5fddf:0x49f91badf995dc81!8m2!3d-23.4373641!4d-51.9366985!16s%2Fg%2F11bzwq0r96?entry=ttu",
-      "description": "https://www.google.com/maps/place/Diamante+Inform%C3%A1tica+e+Assist%C3%AAncia+T%C3%A9cnica/@-23.4349687,-51.9392642,15.25z/data=!4m6!3m5!1s0x94ecd0b54af5fddf:0x49f91badf995dc81!8m2!3d-23.4373641!4d-51.9366985!16s%2Fg%2F11bzwq0r96?entry=ttu"
-    }
-  ],
-  "body": "\\-p",
+  "sections": [],
+  "body": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3660.6439397860845!2d-51.9387526!3d-23.437226!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd0b54af5fddf%3A0x49f91badf995dc81!2sDiamante%20Inform%C3%A1tica%20e%20Assist%C3%AAncia%20T%C3%A9cnica!5e0!3m2!1spt-BR!2sbr!4v1718198062147!5m2!1spt-BR!2sbr\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
   "meta_title": ""
 }
