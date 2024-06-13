@@ -1,6 +1,11 @@
 {
   "title": "Localização ",
-  "sections": [],
+  "sections": [
+    {
+      "type": "custom-html",
+      "html": "https://www.google.com/maps/place/Diamante+Inform%C3%A1tica+e+Assist%C3%AAncia+T%C3%A9cnica/@-23.4373641,-51.9366985,15z/data=!4m2!3m1!1s0x0:0x49f91badf995dc81?sa=X&ved=1t:2428&ictx=111"
+    }
+  ],
   "body": "\n\n**[Endereço](https://www.google.com/search?sca_esv=366036f1aa7f17a1&sca_upv=1&q=diamante+informatica+endere%C3%A7o&ludocid=5330322068000332929&sa=X&sqi=2&ved=2ahUKEwjp7-HHpdmGAxWvqpUCHbW6B5wQ6BN6BAgqEAI):** Av. Pres. Juscelino K. de Oliveira, 1413 - Zona 02, Maringá - PR, 87010-440",
   "meta_title": ""
 }
