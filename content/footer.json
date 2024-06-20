@@ -34,6 +34,14 @@
       {
         "text": "Sobre nós",
         "url": "/sobre-nos"
+      },
+      {
+        "url": "/termos",
+        "text": "Termos de serviços"
+      },
+      {
+        "text": "Trocas e devoluções",
+        "url": "/trocas"
       }
     ]
   },
