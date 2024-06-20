@@ -16,7 +16,7 @@
         "url": "/pages/contato"
       },
       {
-        "url": "/entrega",
+        "url": "pages/entrega",
         "text": "Condições de Entrega"
       },
       {
@@ -25,23 +25,23 @@
       },
       {
         "text": "Formas de pagamento",
-        "url": "/pagamentos"
+        "url": "/pages/pagamentos"
       },
       {
-        "url": "/privacidade",
+        "url": "/pages/privacidade",
         "text": "Política de privacidade"
       },
       {
         "text": "Sobre nós",
-        "url": "/sobre-nos"
+        "url": "/pages/sobre-nos"
       },
       {
-        "url": "/termos",
+        "url": "/pages/termos",
         "text": "Termos de serviços"
       },
       {
         "text": "Trocas e devoluções",
-        "url": "/trocas"
+        "url": "/pages/trocas"
       }
     ]
   },
