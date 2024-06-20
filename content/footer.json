@@ -10,6 +10,30 @@
       {
         "text": "Localização",
         "url": "https://maps.app.goo.gl/q9mcPi4T82prTUrm7"
+      },
+      {
+        "text": "Contato",
+        "url": "/contato"
+      },
+      {
+        "url": "/entrega",
+        "text": "Condições de Entrega"
+      },
+      {
+        "url": "/faq",
+        "text": "Dúvidas frequentes"
+      },
+      {
+        "text": "Formas de pagamento",
+        "url": "/pagamentos"
+      },
+      {
+        "url": "/privacidade",
+        "text": "Política de privacidade"
+      },
+      {
+        "text": "Sobre nós",
+        "url": "/sobre-nos"
       }
     ]
   },
