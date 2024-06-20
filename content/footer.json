@@ -8,10 +8,6 @@
     "title": "Páginas",
     "list": [
       {
-        "text": "Localização",
-        "url": "https://maps.app.goo.gl/q9mcPi4T82prTUrm7"
-      },
-      {
         "text": "Contato",
         "url": "/pages/contato"
       },
@@ -26,6 +22,10 @@
       {
         "text": "Formas de pagamento",
         "url": "/pages/pagamentos"
+      },
+      {
+        "text": "Localização",
+        "url": "https://maps.app.goo.gl/q9mcPi4T82prTUrm7"
       },
       {
         "url": "/pages/privacidade",
