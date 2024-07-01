@@ -6854,6 +6854,12 @@
     </url>
   
     <url>
+      <loc>https://www.diamanteinformatica.com.br/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.diamanteinformatica.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -6878,19 +6884,13 @@
     </url>
   
     <url>
-      <loc>https://www.diamanteinformatica.com.br/pages/entrega</loc>
+      <loc>https://www.diamanteinformatica.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://www.diamanteinformatica.com.br/pages/termos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.diamanteinformatica.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
