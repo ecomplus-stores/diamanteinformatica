@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/dia-das-criancas.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/tudo-para-informatica-2-2-.png",
           "mobile_img": "/img/uploads/480x300tudopara.png"
         },
@@ -41,11 +46,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-impressora-1-.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/dia-das-criancas.jpg"
         }
       ]
     },
