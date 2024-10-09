@@ -66,7 +66,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/whats.jpg"
+          "img": "/img/uploads/whats.jpg",
+          "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!!%20Vi%20o%20site%20de%20voc%C3%AAs%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20pcs!%20"
         }
       ]
     },
