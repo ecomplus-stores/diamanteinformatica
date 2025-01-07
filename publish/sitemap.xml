@@ -7196,19 +7196,13 @@
     </url>
   
     <url>
-      <loc>https://www.diamanteinformatica.com.br/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.diamanteinformatica.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.diamanteinformatica.com.br/pages/privacidade</loc>
+      <loc>https://www.diamanteinformatica.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -7220,13 +7214,19 @@
     </url>
   
     <url>
-      <loc>https://www.diamanteinformatica.com.br/pages/trocas</loc>
+      <loc>https://www.diamanteinformatica.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://www.diamanteinformatica.com.br/pages/termos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.diamanteinformatica.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
