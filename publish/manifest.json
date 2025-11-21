@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.769a70060daa4cdd9761a23389ef5954.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.8a7170f517d56c4ba8985a25733bfaac.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.cf18e2593d1db5d77e59422a837c56fb.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.0cde6ced5fd3361534aa071a69231ca8.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.2ca686c4737d8c7d4857a7bf121c16c4.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Diamante Informática e Assistência Técnica ",
+  "short_name": "Diamante Informática - 26 anos em Maringá",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Compre Cadeiras Gamer, Mouses, Teclados ou Monte seu Setup Gamer. Aqui Oferecemos Serviços Especializados de Tecnologia Para seu Computador, Notebook, Monitores, Nobreaks, Estabilizadores.\nEficiência e Qualidade é aqui!",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
