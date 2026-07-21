@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.3d78e56e5ea3f2fdab53173fe9e8263e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.beb3934a88d6386779d929af1c443092.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.6f50c00b3d041bdb5cb8dab8d12f7948.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.8c9113e6df096c014067b6868384e008.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.0da871ab9b3093866826e279bafc3962.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Diamante Informática - 30 anos ",
+  "short_name": "Diamante Informática - 30 anos em Maringá",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Clique aqui e saiba mais!!",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
