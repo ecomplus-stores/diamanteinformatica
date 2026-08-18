@@ -10,12 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/imagem-venha-conhecer-nossa-loja.jpg",
-          "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!!%20Vi%20o%20site%20de%20voc%C3%AAs%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20seus%20servi%C3%A7os%20e%20produtos!"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/tudo_o_que_voce_precisa_900kb.jpg",
           "mobile_img": "/img/uploads/480x300tudopara.png"
         },
@@ -31,6 +25,12 @@
           "end": "",
           "img": "/img/uploads/fontes_notebooks_900kb.jpg",
           "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!!%20Vi%20o%20site%20de%20voc%C3%AAs%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20carregadores%20de%20notebook!"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/imagem-venha-conhecer-nossa-loja.jpg",
+          "link": "https://api.whatsapp.com/send?phone=5544999261763&text=Ol%C3%A1!!%20Vi%20o%20site%20de%20voc%C3%AAs%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20seus%20servi%C3%A7os%20e%20produtos!"
         },
         {
           "start": "",
